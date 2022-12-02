@@ -9,7 +9,15 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
+1. Projects using technology
+
+* Back end : Node JS
+
+* Front End: React JS
+
+* Database: Firebase
+
+* Texting:SpeedSMS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -19,14 +27,17 @@
 
 First, have to start the server in nodejs
 
+
 ### Installation
 
 
 1. Clone the repo
+
    ```sh
-   git clone https://github.com/PhuNguyen25/NGUYEN_DANG_PHU_VERIFYPHONE.git
+   git clone https://github.com/PhuNguyen25/Nguyen_Dang_Phu_Auth_Phone.git
    ```
 2. Install NPM packages
+
    ```sh
    npm install
    ```
@@ -40,6 +51,7 @@ First, have to start the server in nodejs
 ## Start Project
 
 1. start project
+
    ```sh
    npm start
    ```
@@ -50,18 +62,12 @@ First, have to start the server in nodejs
 
 
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 NGUYEN DANG PHU  - phu159123@gmail.com
 
-Project Link: [https://github.com/PhuNguyen25/NGUYEN_DANG_PHU_VERIFYPHONE](https://github.com/PhuNguyen25/NGUYEN_DANG_PHU_VERIFYPHONE.git)
+Project Link: [https://github.com/PhuNguyen25/Nguyen_Dang_Phu_Auth_Phone.git](https://github.com/PhuNguyen25/Nguyen_Dang_Phu_Auth_Phone.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
